@@ -25,4 +25,4 @@ spring:
       name: admin
       password: ryan
   application:
-    name: microcloud-config-eureka-client
+    name: isryancloud-config-eureka
